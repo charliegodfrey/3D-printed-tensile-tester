@@ -1,0 +1,6 @@
+{
+  "name": "3d-printed-tensile-tester",
+  "tagline": "",
+  "body": "# 3D-printed-tensile-tester\r\nAn Open Source 3D printed tensile strength tester using Arduino, a load cell, a piece of 51mm square aluminium tubing and a Nema 17 stepper motor.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
