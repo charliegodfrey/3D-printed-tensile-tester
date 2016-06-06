@@ -1,6 +1,6 @@
 {
   "name": "RepRapTester",
   "tagline": "An Arduino Open Source 3D printable tensile tester",
-  "body": "# RepRapTester - An Arduino Open Source 3D printable tensile tester\r\nAn Open Source 3D printed tensile strength tester using Arduino, a load cell, a piece of 51mm square aluminium tubing and a Nema 17 stepper motor.\r\n",
+  "body": "An Open Source 3D printed tensile strength tester using Arduino, a load cell, a piece of 51mm square aluminium tubing and a Nema 17 stepper motor.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
