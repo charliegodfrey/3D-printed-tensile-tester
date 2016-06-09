@@ -1,5 +1,5 @@
 # RepRapTester - An Arduino Open Source 3D printable tensile tester
-An Open Source 3D printed tensile strength tester for testing 3dD printed specimens using Arduino for about £30
+An Open Source 3D printed tensile strength tester for testing 3D printed specimens using Arduino for about £30
 
 Things needed:
   1. Arduino Nano/Uno
