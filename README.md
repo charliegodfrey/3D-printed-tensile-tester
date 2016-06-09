@@ -14,6 +14,7 @@ A section of M8 studding
 A micro-switch
 A push-to-make button switch
 
+
  This Arduino electronics and code performs the following stages:
   
   1. Drives the stepper motor back to the limit switch
