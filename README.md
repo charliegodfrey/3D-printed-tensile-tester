@@ -15,8 +15,7 @@ Things needed:
   11. A push-to-make button switch
 
 
- This Arduino electronics and code performs the following stages:
-  
+This Arduino electronics and code performs the following stages:
   1. Drives the stepper motor back to the limit switch
   2. Drives the stepper motor to allow placement of the specimen
   3. Zeros the load cell
