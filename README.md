@@ -14,6 +14,7 @@ Things needed:
   10. 1 long M4 bolt and 1 M5 bolt
   11. A micro-switch
   12. A push-to-make button switch
+  13. 51mm of 6mm diameter steel rod (2 of these needed)
 
 
 This Arduino electronics and code performs the following stages:
