@@ -6,7 +6,7 @@ Things needed:
   2. HX711 load cell amplifier
   3. 300mm section of 51mm square aluminium tubin
   4. 1 Stepstick/DRV8825 stepper driver
-  5. 10kg bar load cell
+  5. 10kg bar load cell 12.7mm * 12.7mm * 80mm such as this one: https://www.sparkfun.com/products/13329
   6. 4 3D printed parts
   7. Nema 17 stepper motor
   8. Flexible coupling (5mm at one end and 8mm at the other)
